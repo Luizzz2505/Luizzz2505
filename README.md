@@ -28,6 +28,7 @@
 Amante da estatística e da visualização de dados.<br>
 
 
-#CodandoParaOFuturo 🚀 <br>
-![gif-spider-man](https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b)  
 
+![gif-spider-man](https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b)  
+<br>
+#CodandoParaOFuturo 🚀 <br>
