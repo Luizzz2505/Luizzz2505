@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475A&height=120&section=header"/>
+
 👋 Olá, sou Luiz Francisco!
 
 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
@@ -13,8 +14,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-francisco-2b2a49249/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=luizcostaneto2505@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizz2505/)
-   <a href=" https://api.whatsapp.com/send?phone=5581986261437" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href=" https://api.whatsapp.com/send?phone=5581986261437" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Luizzz2505&color=blueviolet" alt="Profile views" /> </p>
 
  <br><br>
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=Luizzz2505&show_icons=true&theme=vision-friendly-dark"/>
@@ -35,5 +37,6 @@ Amante da estatística e da visualização de dados.<br>
 
 
 ![gif-spider-man](https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b)  
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475A&height=120&section=footer"/>
