@@ -18,7 +18,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Luizzz2505&color=blueviolet" alt="Profile views" /> </p>
 
- <br><br>
+ <br> <br>
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=Luizzz2505&show_icons=true&theme=vision-friendly-dark"/>
 <img width= "385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzz2505&layout=compact&theme=vision-friendly-dark"/>
 
