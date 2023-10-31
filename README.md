@@ -41,5 +41,7 @@ Amante da estatística e da visualização de dados.<br>
 
 ![gif-spider-man](https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b)  
 
+![snake gif](https://github.com/Luizzz2505/Luizzz2505/blob/output/github-contribution-grid-snake.svg)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475A&height=120&section=footer"/>
