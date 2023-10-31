@@ -10,6 +10,9 @@
 
 🌐 Aprendendo e compartilhando conhecimento aqui no GitHub!
 
+<img width= "450em" src="https://github-readme-stats.vercel.app/api?username=Luizzz2505&show_icons=true&theme=vision-friendly-dark"/>
+<img width= "385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzz2505&layout=compact&theme=vision-friendly-dark"/>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-francisco-2b2a49249/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=luizcostaneto2505@gmail.com)
