@@ -10,6 +10,8 @@
 
 🌐 Aprendendo e compartilhando conhecimento aqui no GitHub!
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luizzz2505&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br><br>
 <img width= "450em" src="https://github-readme-stats.vercel.app/api?username=Luizzz2505&show_icons=true&theme=vision-friendly-dark"/>
 <img width= "385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzz2505&layout=compact&theme=vision-friendly-dark"/>
