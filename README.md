@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475A&height=120&section=header"/>
 
-👋 Olá, sou Luiz Francisco!
+👋 Olá, sou Luiz Francisco!              <img align="right" width="200px" height="150px" alt="Coding" src="https://user-images.githubusercontent.com/53920878/200159276-0b2e93b8-2222-463a-9813-a7e52b93797b.gif"/> 
 
 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
