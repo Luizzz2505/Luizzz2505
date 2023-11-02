@@ -40,9 +40,14 @@
 Amante da estatística e da visualização de dados.<br>
 #CodandoParaOFuturo 🚀 <br>
 
-
-![gif-spider-man](https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b)  
-
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://readme-jokes.vercel.app/api?text=Você%20pode%20ter%20dados%20sem%20informações,%20mas%20não%20pode%20ter%20informações%20sem%20dados" alt="GIF 1"></td>
+      <td><img src="https://github.com/Luizzz2505/Luizzz2505/assets/141175753/24c0beff-d23f-4e5c-9783-2a0ef029719b" width="230" height="200" alt="GIF Redimensionado"></td>
+    </tr>
+  </table>
+</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44475A&height=120&section=footer"/>
