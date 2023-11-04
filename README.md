@@ -39,7 +39,7 @@
 
 <br><br>
  
-## ⚙️🛠 Ferramentas:
+## ⚙️ Ferramentas:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
