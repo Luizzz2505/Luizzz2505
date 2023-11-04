@@ -37,6 +37,16 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
+<br><br>
+ 
+## ⚙️🛠 Ferramentas:
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+<img align="center" alt=" Workbench" src="https://img.shields.io/badge/Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+
 </div><br>
 Amante da estatística e da visualização de dados.<br>
 #CodandoParaOFuturo 🚀 <br>
