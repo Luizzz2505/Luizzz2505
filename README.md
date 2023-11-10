@@ -13,14 +13,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luizzz2505&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
-<div align="center">
-  <a href="https://github.com/Luizzz2505">
-    <img alt="Luizzz2505's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Luizzz2505?cardType=github&theme=dark&preferLogin=false" style="filter: invert(1) grayscale(100%)"/>
-  </a>
-  <a href="https://github.com/Luizzz2505">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzz2505&layout=compact&langs_count=7&theme=dark" style="filter: invert(1) grayscale(100%)"/>
-  </a>
-</div>
+<img width= "450em" src="https://github-readme-stats.vercel.app/api?username=Luizzz2505&show_icons=true&theme=vision-friendly-dark"/>
+<img width= "385em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizzz2505&layout=compact&theme=vision-friendly-dark"/>
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-francisco-2b2a49249/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=luizcostaneto2505@gmail.com)
